@@ -1,10 +1,10 @@
 import turtle
-from playsound import playsound
 
-n = 3 #int(input("n: "))
-velocity = -0.2 #float(input("Enter the velocity of the big block: "))
+n = int(input("n: "))		# Enter number of digits of pi you want
+velocity = float(input("Enter the velocity of the big block: "))
 collisions = 0
 
+# Set up the screen
 wn = turtle.Screen()
 wn.setup(width=800, height=500)
 wn.bgcolor("black")
@@ -12,6 +12,7 @@ wn.title("Pie")
 wn.tracer(0)
 #turtle.delay(0.00000001)
 
+# Set up the pen to draw
 pen = turtle.Turtle()
 pen.setposition(-230,100)
 pen.hideturtle()
@@ -30,6 +31,7 @@ for _ in range(2):
 mass1 = 1
 mass2 = 100**(n-1)
 
+# Setting up the score bar
 collisions_pen = turtle.Turtle()
 collisions_pen.speed(0)
 collisions_pen.color("white")
@@ -39,7 +41,7 @@ scorestring = "Collisions: %s" %collisions
 collisions_pen.write(scorestring, False, align="left", font=("Arial", 14,"normal"))
 collisions_pen.hideturtle()
 
-#for block in blocks:
+# Setting up the smaller block
 blocks[0].shape('square')
 blocks[0].color('yellow')
 blocks[0].shapesize(1, 1)
@@ -48,6 +50,7 @@ blocks[0].setposition(0, 0)
 blocks[0].speed(0)
 blocks[0].dx = 0.0
 
+# Setting up the bigger block
 blocks[1].shape('square')
 blocks[1].shapesize(n, n)
 blocks[1].color('green')
@@ -56,6 +59,7 @@ blocks[1].speed(0)
 blocks[1].setposition(100, 10*(n-1))
 blocks[1].dx = velocity
 
+# Create a function to determine the coliisions
 def isCollision(t1, t2):
 	distance = abs(t1.xcor()-t2.xcor())
 
@@ -64,6 +68,7 @@ def isCollision(t1, t2):
 	else:
 		return False
 
+# Updating the positions of the blocks
 while True:
 	wn.update()
 
@@ -76,8 +81,8 @@ while True:
 		scorestring = "Collisions: %s" %collisions
 		collisions_pen.clear()
 		collisions_pen.write(scorestring, False, align="left", font=("Arial", 14,"normal"))
-#		playsound("clack1.wav")
 
+	# Set the velocities of the blocks after each collision
 	M = mass1 + mass2
 	vel1 = (mass1 - mass2)/M * blocks[0].dx
 	vel1 += 2*mass2/M * blocks[1].dx
@@ -93,6 +98,5 @@ while True:
 		scorestring = "Collisions: %s" %collisions
 		collisions_pen.clear()
 		collisions_pen.write(scorestring, False, align="left", font=("Arial", 14,"normal"))
-#		playsound("clack1.wav")
 
 turtle.exitonclick(0)
