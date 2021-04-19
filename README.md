@@ -11,10 +11,9 @@
 
 
 - 🌱 I’m interested in science, currently learning Python
-- 💬 Ask me about Python
-- ⚡ Fact: Math is love
+- 💬 Ask me about Python, GNU Octave
+- ⚡ Math is love
 
-<br><br><br>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=prAnjal314&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="450" />
