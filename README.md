@@ -10,7 +10,7 @@
 - 💬 Ask me about Python, GNU Octave
 - ⚡ Math is love
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=prAnjal314&theme=dark" width="450"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=prAnjal314&theme=dark" width="600"/>
 <br>
 
 <p align="left">
