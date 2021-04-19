@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/pranjal-das-abb540207/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<img horizontal-align="right" vertical-align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=prAnjal314&theme=dark" width="500"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=prAnjal314&theme=dark" width="700"/>
 
 
 - 🌱 I’m interested in science, currently learning Python
