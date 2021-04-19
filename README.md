@@ -1,14 +1,14 @@
 # Hi there 👋
 
 
-- 🌱 I’m interested in science, currently learning Python
-- 💬 Ask me about Python, GNU Octave
-- ⚡ Math is love
-
 <p align="center">
   <a href="https://twitter.com/Pranjal33570011" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/pranjal-das-abb540207/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+- 🌱 I’m interested in science, currently learning Python
+- 💬 Ask me about Python, GNU Octave
+- ⚡ Math is love
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=prAnjal314&theme=dark" />
 
