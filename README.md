@@ -11,7 +11,7 @@
 - ⚡ Math is love
 
 <p align="right">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=prAnjal314&theme=dark"/>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=prAnjal314&theme=dark" width="450"/>
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prAnjal314&theme=tokyonight&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" width="300" />
 
