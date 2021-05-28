@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=prAnjal314&theme=dark" />
 
 ## About Me 👨‍🎓
-- 🌱 I’m currently Python, C, Web Development, LaTex
+- 🌱 I’m currently learning Python, C, Web Development, LaTex
 - 💬 Ask me about Python, LaTex etc.
 
 <br><br><br>
