@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=prAnjal314&label=Profile%20views&color=0e75b6&style=flat" alt="prAnjal314" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=prAnjal314&label=Profile%20views&color=0e75b6&style=flat" alt="prAnjal314" /> </p> -->
 <p align="center">
   <a href="https://twitter.com/Pranjal33570011" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/pranjal-das-abb540207/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
